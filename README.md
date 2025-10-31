@@ -9,7 +9,8 @@ Tujuan gue bikin ini buat nunjukin skill, projek, dan hasil analisis trading yan
 - GitHub Pages  
 
 ## 📸 Preview
-![Screenshot](foto.jpg)
+!![WIN_20251015_20_31_06_Pro](https://github.com/user-attachments/assets/bbc1ed12-6f87-43ac-92a4-5daa75f84f64)
+(foto.jpg)
 
 ## 🚀 Live Demo
 🔗 [Klik di sini untuk buka websitenya](https://abudroops.github.io/AbuuInvesting/)
